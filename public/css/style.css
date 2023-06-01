@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Permanent+Marker&family=Press+Start+2P&family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Pacifico&family=Permanent+Marker&family=Press+Start+2P&family=Yellowtail&display=swap');
 
 
 body {
     margin: 0;
-    font-family:'Press Start 2P', cursive, sans-serif;
+    font-family: 'Press Start 2P', cursive;
     
 }
 
@@ -26,11 +26,13 @@ body {
 }
 
 .left-login >h1{
+    font-size: 2vw;
     color: #b49b85;
+    padding: 10px 30px;    
 }
 
 .left-login-image{
-    width: 35vw;
+    width: 20vw;
 }
 
 .right-login{
