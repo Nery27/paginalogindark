@@ -113,7 +113,13 @@ body * {
 }
 
 .forgot-password > a {
-    font-size: 0.7vw;
+    font-size: 0.6vw;
+    color: #b49b85;
+    text-decoration: none;
+}
+
+.divider > a {
+    font-size: 0.6vw;
     color: #b49b85;
     text-decoration: none;
 }
